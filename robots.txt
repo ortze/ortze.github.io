@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ortze.github.io/WJK/sitemap.WJK.gz
